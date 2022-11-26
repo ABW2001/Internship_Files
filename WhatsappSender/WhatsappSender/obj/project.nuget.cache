@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ypHq2bkTScKWGXh7XdgV1G1+5ryzsyaMKKHN3YDAbdFyYagTh0xcuG7H8LAyyMPo0tbrHfN5NG3/NWuVbpRFWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andre Wiese\\Desktop\\Internship Files\\WhatsappSender\\WhatsappSender\\WhatsappSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andre Wiese\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

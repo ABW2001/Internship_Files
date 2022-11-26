@@ -1,0 +1,19 @@
+﻿<Window x:Class="WhatsappSender.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WhatsappSender"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="135*"/>
+            <RowDefinition Height="299*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="txtNumber" HorizontalAlignment="Left" Margin="127,89,0,0" TextWrapping="Wrap" Text="+27607956927" VerticalAlignment="Top" Width="120" Height="19"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="19" Margin="127,127,0,0" TextWrapping="Wrap" Text="Andre" VerticalAlignment="Top" Width="120" Grid.RowSpan="2"/>
+        <Button x:Name="btnPost" Content="Button" HorizontalAlignment="Left" Margin="323,127,0,0" VerticalAlignment="Top" Width="66" Grid.RowSpan="2" Click="btnPost_Click"/>
+
+    </Grid>
+</Window>

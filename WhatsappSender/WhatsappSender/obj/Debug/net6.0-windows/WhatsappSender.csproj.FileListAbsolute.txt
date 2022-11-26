@@ -1,0 +1,46 @@
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\bin\Debug\net6.0-windows\WhatsappSender.exe
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\bin\Debug\net6.0-windows\WhatsappSender.deps.json
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\bin\Debug\net6.0-windows\WhatsappSender.runtimeconfig.json
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\bin\Debug\net6.0-windows\WhatsappSender.dll
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\bin\Debug\net6.0-windows\WhatsappSender.pdb
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.csproj.AssemblyReference.cache
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender_MarkupCompile.cache
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender_MarkupCompile.lref
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.g.resources
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.AssemblyInfoInputs.cache
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.AssemblyInfo.cs
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.csproj.CoreCompileInputs.cache
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.csproj.CopyComplete
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.dll
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\refint\WhatsappSender.dll
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.pdb
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.genruntimeconfig.cache
+C:\Users\Andre Wiese\source\repos\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\ref\WhatsappSender.dll
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\bin\Debug\net6.0-windows\WhatsappSender.exe
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\bin\Debug\net6.0-windows\WhatsappSender.deps.json
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\bin\Debug\net6.0-windows\WhatsappSender.runtimeconfig.json
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\bin\Debug\net6.0-windows\WhatsappSender.dll
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\bin\Debug\net6.0-windows\WhatsappSender.pdb
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.csproj.AssemblyReference.cache
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\App.g.cs
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender_MarkupCompile.cache
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender_MarkupCompile.lref
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.g.resources
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.AssemblyInfoInputs.cache
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.AssemblyInfo.cs
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.csproj.CoreCompileInputs.cache
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.csproj.CopyComplete
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.dll
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\refint\WhatsappSender.dll
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.pdb
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\WhatsappSender.genruntimeconfig.cache
+D:\Users\27607\Desktop\Internship\WhatsappSender\WhatsappSender\obj\Debug\net6.0-windows\ref\WhatsappSender.dll

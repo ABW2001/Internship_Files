@@ -1,0 +1,8 @@
+C:\Users\Andre Wiese\source\repos\Multithreading\Multithreading\bin\Debug\Multithreading.exe.config
+C:\Users\Andre Wiese\source\repos\Multithreading\Multithreading\bin\Debug\Multithreading.exe
+C:\Users\Andre Wiese\source\repos\Multithreading\Multithreading\bin\Debug\Multithreading.pdb
+C:\Users\Andre Wiese\source\repos\Multithreading\Multithreading\obj\Debug\Multithreading.csproj.AssemblyReference.cache
+C:\Users\Andre Wiese\source\repos\Multithreading\Multithreading\obj\Debug\Multithreading.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andre Wiese\source\repos\Multithreading\Multithreading\obj\Debug\Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\Andre Wiese\source\repos\Multithreading\Multithreading\obj\Debug\Multithreading.exe
+C:\Users\Andre Wiese\source\repos\Multithreading\Multithreading\obj\Debug\Multithreading.pdb

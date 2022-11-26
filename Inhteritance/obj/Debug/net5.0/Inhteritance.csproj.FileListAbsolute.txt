@@ -1,0 +1,16 @@
+C:\Users\27607\Desktop\Uni\Inhteritance\bin\Debug\net5.0\Inhteritance.exe
+C:\Users\27607\Desktop\Uni\Inhteritance\bin\Debug\net5.0\Inhteritance.deps.json
+C:\Users\27607\Desktop\Uni\Inhteritance\bin\Debug\net5.0\Inhteritance.runtimeconfig.json
+C:\Users\27607\Desktop\Uni\Inhteritance\bin\Debug\net5.0\Inhteritance.runtimeconfig.dev.json
+C:\Users\27607\Desktop\Uni\Inhteritance\bin\Debug\net5.0\Inhteritance.dll
+C:\Users\27607\Desktop\Uni\Inhteritance\bin\Debug\net5.0\Inhteritance.pdb
+C:\Users\27607\Desktop\Uni\Inhteritance\obj\Debug\net5.0\Inhteritance.csproj.AssemblyReference.cache
+C:\Users\27607\Desktop\Uni\Inhteritance\obj\Debug\net5.0\Inhteritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27607\Desktop\Uni\Inhteritance\obj\Debug\net5.0\Inhteritance.AssemblyInfoInputs.cache
+C:\Users\27607\Desktop\Uni\Inhteritance\obj\Debug\net5.0\Inhteritance.AssemblyInfo.cs
+C:\Users\27607\Desktop\Uni\Inhteritance\obj\Debug\net5.0\Inhteritance.csproj.CoreCompileInputs.cache
+C:\Users\27607\Desktop\Uni\Inhteritance\obj\Debug\net5.0\Inhteritance.dll
+C:\Users\27607\Desktop\Uni\Inhteritance\obj\Debug\net5.0\refint\Inhteritance.dll
+C:\Users\27607\Desktop\Uni\Inhteritance\obj\Debug\net5.0\Inhteritance.pdb
+C:\Users\27607\Desktop\Uni\Inhteritance\obj\Debug\net5.0\Inhteritance.genruntimeconfig.cache
+C:\Users\27607\Desktop\Uni\Inhteritance\obj\Debug\net5.0\ref\Inhteritance.dll
