@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre Wiese\\Desktop\\Internship Files\\WhatsappSender\\WhatsappSender\\WhatsappSender.csproj": {}
+    "C:\\Users\\Andre Wiese\\Desktop\\Internship Files\\Internship_Files\\WhatsappSender\\WhatsappSender\\WhatsappSender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre Wiese\\Desktop\\Internship Files\\WhatsappSender\\WhatsappSender\\WhatsappSender.csproj": {
+    "C:\\Users\\Andre Wiese\\Desktop\\Internship Files\\Internship_Files\\WhatsappSender\\WhatsappSender\\WhatsappSender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre Wiese\\Desktop\\Internship Files\\WhatsappSender\\WhatsappSender\\WhatsappSender.csproj",
+        "projectUniqueName": "C:\\Users\\Andre Wiese\\Desktop\\Internship Files\\Internship_Files\\WhatsappSender\\WhatsappSender\\WhatsappSender.csproj",
         "projectName": "WhatsappSender",
-        "projectPath": "C:\\Users\\Andre Wiese\\Desktop\\Internship Files\\WhatsappSender\\WhatsappSender\\WhatsappSender.csproj",
+        "projectPath": "C:\\Users\\Andre Wiese\\Desktop\\Internship Files\\Internship_Files\\WhatsappSender\\WhatsappSender\\WhatsappSender.csproj",
         "packagesPath": "C:\\Users\\Andre Wiese\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre Wiese\\Desktop\\Internship Files\\WhatsappSender\\WhatsappSender\\obj\\",
+        "outputPath": "C:\\Users\\Andre Wiese\\Desktop\\Internship Files\\Internship_Files\\WhatsappSender\\WhatsappSender\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andre Wiese\\AppData\\Roaming\\NuGet\\NuGet.Config",

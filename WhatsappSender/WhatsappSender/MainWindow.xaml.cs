@@ -42,9 +42,9 @@ namespace WhatsappSender
 
             using (var client = new HttpClient()) 
             {
-                client.BaseAddress = new Uri("RemovedForSafety");
+                client.BaseAddress = new Uri("Confidential");
                 var content = new StringContent(json, Encoding.UTF8, "application/json");
-                var result = await client.PostAsync("/api/WhatsAppSender/SendTemplateWithParameters", content);
+                var result = await client.PostAsync("Confidential", content);
                 string resultContent = await result.Content.ReadAsStringAsync();
                 MessageBox.Show(resultContent);
             }
